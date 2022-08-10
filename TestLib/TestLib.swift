@@ -5,6 +5,9 @@
 //  Created by Viktor Simkó on 2022. 08. 09..
 //
 
-class TestLib {
+public class TestLib {
 
+    public func foo() {
+        print("foooo")
+    }
 }
